@@ -1,7 +1,13 @@
-## program bank sederhana 
-## bisa untuk cek saldo,withdraw & deposit 
+<h1 align="center">Program Bank </h1>
+
+# FITUR:
+* Cek saldo :
+* deposit :
+* withdraw :
 
 <p align="center">
-<a href="#"><img src="Screenshot from 2023-08-19 10-25-36.png"
 
-## bahasa program = python ektensi.py
+
+<a href="#"><img src="Cuplikan layar 2024-08-30 114220.png">
+
+
